@@ -7,12 +7,12 @@ This repository contains my master's thesis work benchmarking deep learning time
 This work is built upon the [Time-Series-Library (TSLib)](https://github.com/thuml/Time-Series-Library), a comprehensive open-source library for deep time series analysis.
 
 ## My Research Contributions
-# Primary Objectives
+ Primary Objectives
 
-# Model Benchmarking: Systematic evaluation of deep learning time-series models for optical communication equalization
-# Dispersion Compensation: Improved handling of chromatic dispersion effects in optical fiber transmission
-# Jitter Mitigation: Enhanced compensation techniques for timing jitter in communication signals
-# Performance Analysis: Comparative study of model effectiveness in communication-specific scenarios
+- Model Benchmarking: Systematic evaluation of deep learning time-series models for optical communication equalization
+- Dispersion Compensation: Improved handling of chromatic dispersion effects in optical fiber transmission
+- Jitter Mitigation: Enhanced compensation techniques for timing jitter in communication signals
+- Performance Analysis: Comparative study of model effectiveness in communication-specific scenarios
 
 **Original Repository**: [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library)
 
